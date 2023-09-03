@@ -133,3 +133,9 @@ button {
 .contact h2, .contact p {
     margin: 0;
 }
+
+.footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    text-align: center;
+}
